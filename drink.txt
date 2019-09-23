@@ -4,3 +4,7 @@ welcome to dink menu
 
 cola
 soda
+water
+tea
+
+thank you for your business
