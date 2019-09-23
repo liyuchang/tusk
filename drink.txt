@@ -6,5 +6,7 @@ cola
 soda
 water
 tea
+beer
+
 
 thank you for your business
